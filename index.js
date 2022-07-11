@@ -1,4 +1,4 @@
-const testFolder = './solidity2/';
+const testFolder = './foldername/';
 const fs = require('fs');
 var path = require('path')
 
